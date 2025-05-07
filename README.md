@@ -11,21 +11,17 @@ Hi, I am [Your Name]. I am a Master's student in Computer Science at [University
 - **Resume:** [Download Resume](#)
 - **Google Scholar:** [Profile](#)
 - **LinkedIn:** [Profile](#)
-
+```
 ## GitHub Stats
 
 ### 📈 GitHub Activity Graph
 
 ![GitHub Activity Graph](https://ghchart.rshah.org/zhouzihui2001)
 
-### 🏆 GitHub Profile Trophy
-
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=zhouzihui2001&theme=radical)
-
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhouzihui2001&show_icons=true&theme=dark)
-
+```
 ## Publications
 
 [Conference Name] 2024
