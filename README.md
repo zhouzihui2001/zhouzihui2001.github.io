@@ -6,29 +6,14 @@
 
 # About me
 
-Hi, I am [Your Name]. I am a Master's student in Computer Science at [University Name] 🎓. My current research interests include **Machine Learning**, **Deep Learning** and **Artificial Intelligence**.
+Hi, I am Zhou Zihui. I am a Master's student in Computer Science at Chongqing University 🎓. My current research interests include **Multi-modal Representation Learning,Vision-Language Models**, **Computer Vision**, and **Remote Sensing AI**.
 
 - **Resume:** [Download Resume](#)
-- **Google Scholar:** [Profile](#)
-- **LinkedIn:** [Profile](#)
-"""
-## GitHub Stats
+- **Zhihu:** [Profile](#)
 
-### 📈 GitHub Activity Graph
-
-![GitHub Activity Graph](https://ghchart.rshah.org/zhouzihui2001)
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhouzihui2001&show_icons=true&theme=dark)
-"""
 ## Publications
 
-[Conference Name] 2024
-
-![img](https://via.placeholder.com/300x200)
-
-A Novel Approach to [Research Area]: [Paper Title]
+Assessment and Mitigation of Hallucinations in Multimodal Large Language Models within the Domain of Remote Sensing
 
 **Your Name**, Co-Author Name, Advisor Name
 
@@ -50,7 +35,7 @@ Exploring [Research Topic]: A Comprehensive Study
 - This paper presents an in-depth analysis of [research topic] and its applications.
 - We introduce a new dataset for [specific task] and benchmark several models.
 
-## 📖 Educations
+## Educations
 
 - _2022.09.01 - current_, Master's Student, Major in Computer Science, [University Name]
 
@@ -81,7 +66,20 @@ Exploring [Research Topic]: A Comprehensive Study
 - _2023.7_ [Award Name] for Outstanding Research
 - _2021.6_ [Scholarship Name] Scholarship
 
+## Skills
+
+### Programming Languages
+
+- Python
+- Java
+- C++
+
+
+### Machine Learning & AI
+
+- **Frameworks**: PyTorch, OpenCV
+- **Techniques**: Deep Learning, M, Computer Vision
+
 ## 📧 Contact
 
 - **Email:** your.email@example.com
-- **Twitter:** [@your_username](#)
