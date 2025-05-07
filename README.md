@@ -11,7 +11,7 @@ Hi, I am [Your Name]. I am a Master's student in Computer Science at [University
 - **Resume:** [Download Resume](#)
 - **Google Scholar:** [Profile](#)
 - **LinkedIn:** [Profile](#)
-```
+"""
 ## GitHub Stats
 
 ### 📈 GitHub Activity Graph
@@ -21,7 +21,7 @@ Hi, I am [Your Name]. I am a Master's student in Computer Science at [University
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhouzihui2001&show_icons=true&theme=dark)
-```
+"""
 ## Publications
 
 [Conference Name] 2024
