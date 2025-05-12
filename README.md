@@ -33,7 +33,7 @@ Hi, I am Zhou Zihui. I am a Master's student in Computer Science at Chongqing Un
 - We introduce **RSHalluShield**: a hallucination mitigation dataset of 30,000 QA pairs.
 - We fine-tune the model on the RSHalluShield dataset, resulting in a 12.33% increase in the hallucination-free rate. Superior performance is also achieved on downstream tasks.
 
-![img](assets/framework.png)
+![img](assets/hallucination_framework.png)
 
 ## Fine-Grained Information Supplementation and Value-Guided Learning for Remote Sensing Image-Text Retrieval
 
@@ -56,12 +56,16 @@ We verify the validity of the model on the RSICD and RSITMD datasets. The result
   -  Supervisor: Prof Feng Yong
   -  System functions:
     - Supports intelligent recognition of more than 13 types of objects in irregular environments such as forests and rivers.
+    - Supports dynamic change detection and dynamic recognition of patches, with a dynamic recognition rate of patches exceeding 89%.
     - Supports the segmentation of long and narrow rivers and can fit the trajectories on both sides of the river to calculate the trajectory fitting accuracy. The dynamic trajectory fitting accuracy is less than 4.78m.
-    - Supports dynamic change detection and dynamic recognition of patches, with a dynamic recognition rate of patches exceeding 89.8%.
     - Supports the real-time interpretation of the large vision-language model.
   -  My contribute:
-    - Developed a functional module for high-resolution remote sensing image segmentation, capable of segmenting objects of 13 categories in images of different sizes.
+    - Developed the functional module for high-resolution remote sensing image segmentation.
+    - Trained the river segmentation model and achieved an mIoU of 92%.
     - Deployed the remote sensing MLLM GeoChat to implement intelligent remote sensing question answering.
+![# 分割示例](assets/system_segment.png)
+![# 河流分割示例](assets/system_river_segment.png)
+![# 变化检测示例](assets/system_change_detection.png) 
 
  # Internships
 
