@@ -28,7 +28,7 @@ Hi, I am Zhou Zihui. I am a Master's student in Computer Science at Chongqing Un
 
 **Zihui Zhou**, Yong Feng, Agen Qiu, Guofan Duan, and Mingliang Zhou
 
-**accepted by the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing** | [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10716520) [**Code**](https://github.com/zhouzihui2001/FISVL/tree/main)
+**accepted by the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing** | [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10716520) | [**Code**](https://github.com/zhouzihui2001/FISVL/tree/main)
 
 We propose a fine-grained information supplementation and value-guided learning (FISVL) model. Feature enhancement is carried out by integrating the prior knowledge in the field of recommendation systems, and a value-oriented training strategy is adopted to learn feature representations that are fine-grained, highly expressive and robust. Specifically, FISVL contains the following core modules:
 1. ​**fine-grained information supplementation (FGIS)​**: By fusing the visual information of global and local features, the perception ability of the model for multi-scale features of remote sensing images is enhanced, and the problem of representation limitations caused by insufficient feature granularity in traditional methods is solved.
@@ -43,7 +43,7 @@ We verify the validity of the model on the RSICD and RSITMD datasets. The result
 
 - _2023.09.01 - current_, Master's Student, Major in Computer Science, Chongqing University
 
-  - Advisor: Prof. [Feng Yong]
+  - Advisor: Prof. Feng Yong
   - Research Focus: **Multi-modal Representation Learning**, **Vision-Language Models**, **Computer Vision**, and **Remote Sensing AI**.
 
 - _2019.09.01 - 2023.06.30_, Undergraduate Student, Major in Computer Science, Chongqing University
@@ -51,24 +51,31 @@ We verify the validity of the model on the RSICD and RSITMD datasets. The result
   - Bachelor Thesis: Research and Implementation of Image Text Retrieval Based on Attention Mechanism
 
 ## Projects
-
+**Intelligent Environmental Monitoring System Based on Multi-source Satellite Remote Sensing Images**
 - _September 2023-June 2024, **Chongqing University**, Project member
-  -  Supervisor: Prof [Feng Yong]
+  -  Supervisor: Prof Feng Yong
+  -  System functions:
+    - Supports intelligent recognition of more than 13 types of objects in irregular environments such as forests and rivers.
+    - Supports the segmentation of long and narrow rivers and can fit the trajectories on both sides of the river to calculate the trajectory fitting accuracy. The dynamic trajectory fitting accuracy is less than 4.78m.
+    - Supports dynamic change detection and dynamic recognition of patches, with a dynamic recognition rate of patches exceeding 89.8%.
+    - Supports the real-time interpretation of the large vision-language model.
   -  My contribute:
     - Developed a functional module for high-resolution remote sensing image segmentation, capable of segmenting objects of 13 categories in images of different sizes.
     - Deployed the remote sensing MLLM GeoChat to implement intelligent remote sensing question answering.
 
  ## Internships
 
-- _May 2023-July 2023_, **Tech Company Name**, Software Development Intern
+- _December 2024-April 2025_, **Chongqing Longline Intelligent Technology Co., Ltd.** Perception and Localization Department Intern, Algorithm Design Engineer
 
-  - Worked on [Project Name], an AI-driven application for [specific function]
-  - Contributed to the development of [specific feature] and improved system performance by [X]%
+  - **Automated Labeling for Autonomous Driving Data**: Responsible for business data adaptation and prompt design for model inference. The whole project has been packaged as an operator to enable large scale data production.
+  - **Multi-modal Driving Data Generation**: Trained and optimized the 3D occupancy control generation model, including business data adaptation and model training and tuning for 3D scene reconstruction.
  
 ## Honors and Awards
 
-- _2023.7_ [Award Name] for Outstanding Research
-- _2021.6_ [Scholarship Name] Scholarship
+- _November 2024_, University-level First-Class Scholarship
+- _November 2023_, University-level First-Class Scholarship
+- _October 2024_, University-level Merit Student
+- _June 2022_, National-level Innovation and Entrepreneurship Training Program, Second-Level Completion
 
 ## Skills
 
@@ -78,12 +85,11 @@ We verify the validity of the model on the RSICD and RSITMD datasets. The result
 - Java
 - C++
 
-
 ### Machine Learning & AI
 
 - **Frameworks**: PyTorch, OpenCV
-- **Techniques**: Deep Learning, M, Computer Vision
+- **Techniques**: Deep Learning, Multi-modal Representation Learning, Computer Vision
 
 ## 📧 Contact
 
-- **Email:** your.email@example.com
+- **Email:** 20191694@cqu.edu.com
