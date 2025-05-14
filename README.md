@@ -1,4 +1,4 @@
-![GitHub Banner](https://github.com/zhouzihui2001/zhouzihui2001/raw/main/assets/Bottom_up.svg)
+![GitHub Banner](assets/banner.png)
 
 ![Status Badge](https://img.shields.io/badge/status-updating-brightgreen.svg)
 ![GitHub Contributors Badge](https://img.shields.io/github/contributors/zhouzihui2001/zhouzihui2001.svg?color=blue)
