@@ -51,7 +51,15 @@ We verify the validity of the model on the RSICD and RSITMD datasets. The result
 ![# 可视化效果](assets/FISVL_result2.png)
 
 # Projects
-**Intelligent Environmental Monitoring System Based on Multi-source Satellite Remote Sensing Images**
+## Bachelor Thesis: Research and Implementation of Image Text Retrieval Based on Attention Mechanism
+- September 2018-May 2019, Chongqing University, Researcher
+- Supervisor: Prof Feng Yong
+- We developed an **intra-modal loss function with three forms (visual, text, and combined modalities)** to constrain global feature disparities between positive instances and hard negatives, thus obtaining superior global feature representation.
+- We adopted **two re-ranking algorithms** to optimize the similarity matrix.
+- We conducted experiments to demonstrate the superiority of the proposed model and developed **a prototype image-text retrieval system** based on it.
+![# SGRAF+框架图](assets/sgraf+.png)
+
+## Intelligent Environmental Monitoring System Based on Multi-source Satellite Remote Sensing Images
 - September 2023-June 2024, Chongqing University, Project member
 - Supervisor: Prof Feng Yong
 - System functions:
