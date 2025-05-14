@@ -52,7 +52,7 @@ We verify the validity of the model on the RSICD and RSITMD datasets. The result
 
 # Projects
 **Intelligent Environmental Monitoring System Based on Multi-source Satellite Remote Sensing Images**
-- _September 2023-June 2024, **Chongqing University**, Project member
+- September 2023-June 2024, Chongqing University, Project member
 - Supervisor: Prof Feng Yong
 - System functions:
   
@@ -60,7 +60,7 @@ We verify the validity of the model on the RSICD and RSITMD datasets. The result
   - Supports dynamic change detection and dynamic recognition of patches, with a dynamic recognition rate of patches exceeding **89%**.
   - Supports the segmentation of long and narrow rivers and can fit the trajectories on both sides of the river to calculate the trajectory fitting accuracy. The dynamic trajectory fitting accuracy is less than 4.78m.
   - Supports the real-time interpretation of the large vision-language model.
-- My contribute:
+- My contributions:
 
   - Developed the functional module for high-resolution remote sensing image segmentation.
   - Trained the river segmentation model and achieved an mIoU of **92%**.
