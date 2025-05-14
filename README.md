@@ -1,9 +1,5 @@
 ![GitHub Banner](assets/banner.png)
 
-![Status Badge](https://img.shields.io/badge/status-updating-brightgreen.svg)
-![GitHub Contributors Badge](https://img.shields.io/github/contributors/zhouzihui2001/zhouzihui2001.svg?color=blue)
-![GitHub Stars Badge](https://img.shields.io/github/stars/zhouzihui2001/zhouzihui2001.svg?logo=github)
-
 # About me
 
 Hi, I am Zhou Zihui. I am a Master's student in Computer Science at Chongqing University 🎓. My current research interests include **Multi-modal Representation Learning**, **Vision-Language Models**, **Computer Vision**, and **Remote Sensing AI**.
