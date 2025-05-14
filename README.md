@@ -35,7 +35,7 @@ Hi, I am Zhou Zihui. I am a Master's student in Computer Science at Chongqing Un
 
 **Zihui Zhou**, Yong Feng, Agen Qiu, Guofan Duan, and Mingliang Zhou
 
-**Accepted by the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing** | [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10716520) | [**Code**](https://github.com/zhouzihui2001/FISVL/tree/main)
+**Accepted by the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing** | [**Paper**](assets/Fine-Grained_Information_Supplementation_and_Value-Guided_Learning_for_Remote_Sensing_Image-Text_Retrieval.pdf) | [**Code**](https://github.com/zhouzihui2001/FISVL/tree/main)
 
 We propose a fine-grained information supplementation and value-guided learning (FISVL) model. Feature enhancement is carried out by integrating the prior knowledge in the field of recommendation systems, and a value-oriented training strategy is adopted to learn feature representations that are fine-grained, highly expressive and robust. Specifically, FISVL contains the following core modules:
 1. ​**fine-grained information supplementation (FGIS)​**: By fusing the visual information of global and local features, the perception ability of the model for multi-scale features of remote sensing images is enhanced, and the problem of representation limitations caused by insufficient feature granularity in traditional methods is solved.
