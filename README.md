@@ -70,14 +70,19 @@ We verify the validity of the model on the RSICD and RSITMD datasets. The result
 <p align="center">
   <img src="assets/system_segment.png" width="744" height="272" alt="Example of segment" style="display: block; margin: 0 auto;">
 </p>
-![# 分割示例](assets/system_segment.png)
-![# 河流分割示例](assets/system_river_segment.png)
-![# 变化检测示例](assets/system_change_detection.png) 
-![# 大模型示例](assets/system_geochat.png) 
+<p align="center">
+  <img src="assets/system_river_segment.png" width="414" height="239" alt="河流分割示例" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+  <img src="assets/system_change_detection.png" width="1083" height="344" alt="变化检测示例" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+  <img src="assets/system_geochat.png" width="786" height="398" alt="大模型示例" style="display: block; margin: 0 auto;">
+</p>
 
  # Internships
 
-##  **Chongqing Longline Intelligent Technology Co., Ltd.** 
+**Chongqing Longline Intelligent Technology Co., Ltd.** 
 _December 2024-April 2025_, Perception and Localization Department Intern, Algorithm Design Engineer
   - **Automated Labeling for Autonomous Driving Data**: Responsible for business data adaptation and prompt design for model inference. The whole project has been packaged as an operator to enable large scale data production.
   - **Multi-modal Driving Data Generation**: Trained and optimized the 3D occupancy control generation model, including business data adaptation and model training and tuning for 3D scene reconstruction.
