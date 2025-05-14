@@ -52,20 +52,8 @@ We verify the validity of the model on the RSICD and RSITMD datasets. The result
 
 # Projects
 **Intelligent Environmental Monitoring System Based on Multi-source Satellite Remote Sensing Images**
-<<<<<<< HEAD
 - _September 2023-June 2024, **Chongqing University**, Project member
-  -  Supervisor: Prof Feng Yong
-  -  System functions:
-    - Supports intelligent recognition of more than 13 types of objects in irregular environments such as forests and rivers.
-    - Supports dynamic change detection and dynamic recognition of patches, with a dynamic recognition rate of patches exceeding 89%.
-    - Supports the segmentation of long and narrow rivers and can fit the trajectories on both sides of the river to calculate the trajectory fitting accuracy. The dynamic trajectory fitting accuracy is less than 4.78m.
-    - Supports the real-time interpretation of the large vision-language model.
-  -  My contribute:
-    - Developed the functional module for high-resolution remote sensing image segmentation.
-    - Trained the river segmentation model and achieved an mIoU of 92%.
-    - Deployed the remote sensing MLLM GeoChat to implement intelligent remote sensing question answering.
-=======
-_September 2023-June 2024, **Chongqing University**, Project member | Supervisor: Prof Feng Yong
+-  Supervisor: Prof Feng Yong
 -  System functions:
   - Supports intelligent recognition of more than 13 types of objects in irregular environments such as forests and rivers.
   - Supports dynamic change detection and dynamic recognition of patches, with a dynamic recognition rate of patches exceeding 89%.
@@ -75,14 +63,15 @@ _September 2023-June 2024, **Chongqing University**, Project member | Supervisor
   - Developed the functional module for high-resolution remote sensing image segmentation.
   - Trained the river segmentation model and achieved an mIoU of 92%.
   - Deployed the remote sensing MLLM GeoChat to implement intelligent remote sensing question answering.
->>>>>>> c9bd53bc70fe80680cc46a9e54aff1a17539995e
+
 ![# 分割示例](assets/system_segment.png)
 ![# 河流分割示例](assets/system_river_segment.png)
 ![# 变化检测示例](assets/system_change_detection.png) 
+![# 大模型示例](assets/system_geochat.png) 
 
  # Internships
 
-## _December 2024-April 2025_, **Chongqing Longline Intelligent Technology Co., Ltd.** Perception and Localization Department Intern, Algorithm Design Engineer##
+## _December 2024-April 2025_, **Chongqing Longline Intelligent Technology Co., Ltd.** Perception and Localization Department Intern, Algorithm Design Engineer
 
   - **Automated Labeling for Autonomous Driving Data**: Responsible for business data adaptation and prompt design for model inference. The whole project has been packaged as an operator to enable large scale data production.
   - **Multi-modal Driving Data Generation**: Trained and optimized the 3D occupancy control generation model, including business data adaptation and model training and tuning for 3D scene reconstruction.
