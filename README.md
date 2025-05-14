@@ -83,7 +83,9 @@ We verify the validity of the model on the RSICD and RSITMD datasets. The result
  # Internships
 
 **Chongqing Longline Intelligent Technology Co., Ltd.** 
+
 _December 2024-April 2025_, Perception and Localization Department Intern, Algorithm Design Engineer
+
   - **Automated Labeling for Autonomous Driving Data**: Responsible for business data adaptation and prompt design for model inference. The whole project has been packaged as an operator to enable large scale data production.
   - **Multi-modal Driving Data Generation**: Trained and optimized the 3D occupancy control generation model, including business data adaptation and model training and tuning for 3D scene reconstruction.
  
