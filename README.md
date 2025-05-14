@@ -66,7 +66,7 @@ We verify the validity of the model on the RSICD and RSITMD datasets. The result
   
   - Supports intelligent recognition of more than 13 types of objects in environments such as forests and rivers.
   - Supports dynamic change detection and dynamic recognition of patches, with a dynamic recognition rate of patches exceeding **89%**.
-  - Supports the segmentation of long and narrow rivers and can fit the trajectories on both sides of the river to calculate the trajectory fitting accuracy. The dynamic trajectory fitting accuracy is less than 4.78m.
+  - Supports the segmentation of long and narrow rivers and can fit the trajectories on both sides of the river to calculate the trajectory fitting accuracy. The dynamic trajectory fitting accuracy is less than **4.78m**.
   - Supports the real-time interpretation of the large vision-language model.
 - My contributions:
 
