@@ -27,7 +27,8 @@ Hi, I am Zihui Zhou. I am a Master's student in Computer Science at Chongqing Un
 - We characterize MLLM hallucination patterns in the remote sensing field, establishing a taxonomy that categorizes 4 different hallucination types.
 - We propose an MLLM hallucinations detection suite: including **the RSHalluEval benchmark, evaluation metrics, and flexible automated hallucination detection strategies (for precision-focused and efficiency-focused scenes, respectively)**, and evaluate MLLM hallucinations in this domain.
 - We introduce **RSHalluShield**: a hallucination mitigation dataset of 30,000 QA pairs.
-- We fine-tune the model on the RSHalluShield dataset, resulting in a 12.33% increase in the hallucination-free rate. Superior performance is also achieved on downstream tasks.
+- We introduce two effective **plug-and-play relief schemes** for training-free situations.
+- We conduct various experiments to prove the effectiveness of the schemes in alleviating hallucinations. Superior performance is also achieved on downstream tasks.
 
 ![img](assets/hallucination_framework.png)
 
