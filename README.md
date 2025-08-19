@@ -4,7 +4,7 @@
 
 Hi, I am Zihui Zhou. I am a Master's student in Computer Science at Chongqing University 🎓. My current research interests include **Multi-modal Representation Learning**, **Vision-Language Models**, **Computer Vision**, and **Remote Sensing AI**.
 
-- **Resume:** [中文](assets/resume_chinese.pdf) | [English](assets/resume_english.pdf)
+- **Resume:** [中文](assets/resume_chinese.pdf), [English](assets/resume_english.pdf)
 - [**Zhihu**](https://www.zhihu.com/people/guai-guai-28-38)
 
 # Educations
